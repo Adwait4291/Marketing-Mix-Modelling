@@ -10,7 +10,7 @@ This project performs an end-to-end Marketing Mix Modeling (MMM) analysis using 
 * Calculate the elasticity of GMV with respect to significant drivers.
 * Provide reliable, data-driven insights to inform marketing strategy.
 
-## Data
+## Data 
 
 The analysis uses `marketing.csv`, containing weekly data on GMV, marketing spend, pricing, operational metrics, KPIs, and event flags.
 
