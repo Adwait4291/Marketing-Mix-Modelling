@@ -4,8 +4,6 @@
 
 This project performs an end-to-end Marketing Mix Modeling (MMM) analysis using weekly marketing and sales data provided in `marketing.csv`. The goal is to understand the impact of various marketing channels (TV, Digital, SEM, etc.), pricing, promotions, and other factors on Gross Merchandise Value (GMV).
 
-The analysis replicates the methodology demonstrated in the `Market_Mix_Model_ElecKart.ipynb` example notebook.
-
 ## Objective
 
 * Quantify the contribution of different marketing levers and external factors to weekly GMV.
